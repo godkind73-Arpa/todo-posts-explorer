@@ -10,10 +10,10 @@ const Footer = () => {
           <span className="logo-text">Explorer</span>
         </div>
         <div className="footer-info">
-          <p>&copy; {currentYear} All rights reserved to Aupu.</p>
+          <p>&copy; {currentYear} All rights reserved to © Arpa.</p>
           <div className="footer-links">
-            <a href="https://github.com/habibul3068" target="_blank" rel="noopener noreferrer">GitHub</a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+            <a href="" target="_blank" rel="noopener noreferrer">GitHub</a>
+            <a href="" target="_blank" rel="noopener noreferrer">LinkedIn</a>
           </div>
         </div>
       </div>
